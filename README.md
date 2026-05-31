@@ -1,4 +1,4 @@
-# Contract Pre-Check Pipeline
+# Contract Pre-Check Pipeline 
 
 Automated contract pre-check pipeline using [Strands Agents SDK](https://github.com/strands-agents/sdk-python), Amazon Bedrock, Amazon Textract, and hash-based duplicate detection.
 
