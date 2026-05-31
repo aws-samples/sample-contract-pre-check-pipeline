@@ -1,0 +1,13 @@
+# Strands Agents SDK
+strands-agents
+strands-agents-builder
+
+# AWS SDK
+boto3>=1.34.0
+
+# Image processing and hashing
+Pillow>=10.0.0
+imagehash>=4.3.0
+PyWavelets<1.9.0
+numpy<2.1
+scipy<1.15

@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+.venv/
+venv/
+dist/
+build/
+
+# CDK
+cdk.out/
+
+# ASH scan output
+ash-output/
+
+# IDE / Editor
+.claude/settings.local.json
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+*.env
+.env.*
+*.pem
+*.key
+
+# Test / Coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Node (CDK)
+node_modules/
